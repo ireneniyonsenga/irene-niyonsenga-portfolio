@@ -1,2 +1,2 @@
 # irene-niyonsenga-portfolio
-Smart Traffic Management System designed for centralized traffic monitoring, role-based dashboards, data analysis, and operational decision support.
+This repository contains a structured portfolio demonstrating expertise in Information Technology, Systems Analysis, IT Operations, and Digital Systems Management. Key highlights include Technical Projects with architecture diagrams, role-based dashboards, and measurable operational outcomes. Skills are documented with proficiency levels and real-world usage contexts. The portfolio is designed to provide technical evidence for recruiters, IT managers, and corporate evaluators..
